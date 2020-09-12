@@ -1,6 +1,6 @@
 ---
 applications:
-- name: text-to-speech-demo
+- name: text-to-speech-dolphin
   command: npm start
   path: .
   memory: 512M
